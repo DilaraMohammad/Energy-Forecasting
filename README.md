@@ -4,8 +4,7 @@ An end-to-end Machine Learning project designed to forecast energy consumption a
 
 ---
 ## 🚀 Live Demo
-You can test the application live here: [Energy Forecasting App](https://energy-forecasting-w29scythjyanrmadq7osjd.streamlit.app/)
-
+You can test the application live here: [Energy Forecasting App](https://energy-forecasting-w29scythjyanrnadq7osjd.streamlit.app/)
 ---
 ## 🚀 Project Overview
 This system utilizes historical time-series data to perform two main tasks:
