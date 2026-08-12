@@ -3,7 +3,10 @@
 An end-to-end Machine Learning project designed to forecast energy consumption and classify energy demand levels using historical power grid data. This project includes a fully interactive web application built with *Streamlit*.
 
 ---
+## 🚀 Live Demo
+You can test the application live here: [Energy Forecasting App](https://energy-forecasting-w29scythjyanrmadq7osjd.streamlit.app/)
 
+---
 ## 🚀 Project Overview
 This system utilizes historical time-series data to perform two main tasks:
 1. *Regression (Ridge Regression):* Predicts the exact future energy consumption value (in Megawatts).
